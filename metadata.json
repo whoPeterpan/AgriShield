@@ -1,0 +1,6 @@
+{
+  "name": "Suraksha Sathi",
+  "description": "Digital Biosecurity Management Portal for Pig and Poultry Farms — Assess. Act. Prove. Stay Safe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
